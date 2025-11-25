@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I'm a passionate **Security Analyst** based in Pun
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/akhilkhanchhanchanple.com
-
+- 💼 [LinkedIn] : https://www.linkedin.com/in/akhil-khanchandani-215831125/
 ---
 
 > “Security is not a product, but a process.” – Bruce Schneier
